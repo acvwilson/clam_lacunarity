@@ -1,3 +1,12 @@
 This program is used to do a lacunarity analysis on a square plot of clams.
 
+Once downloaded you can run it with the following command:
+
+clamcahoots.py FILENAME GRIDSIZE
+
+FILENAME can be an absolute or relative path to the file.
+GRIDSIZE is the size of the largest box to be used in the sliding box analysis.
+
+
+
 Written in Fall 2007
